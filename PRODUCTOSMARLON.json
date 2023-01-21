@@ -1,0 +1,220 @@
+{
+    "status": "OK",
+    "code": 200,
+    "total": 5,
+    "data": [
+        {
+            "id": 1,
+            "name": "IMPRESORA EPSON L3210",
+            "description": "Eum sequi delectus doloremque sunt in. Voluptatum alias vero illum doloribus. Ipsa qui atque ex quaerat dicta.",
+            "ean": "9336980257662",
+            "upc": "265584543285",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Sequi aut est sed rerum.",
+                    "description": "Eligendi est et et repudiandae est quaerat. Enim pariatur voluptatem laudantium velit in impedit. Id consequatur dolores voluptas quia molestiae neque.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Qui laudantium nobis aut.",
+                    "description": "Assumenda exercitationem dignissimos cumque illo odit. Repudiandae sed nihil est accusamus repellendus. Omnis non est at rerum unde.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Vel non aut in vero dolorem.",
+                    "description": "Repellat ipsam quod exercitationem repellat consectetur doloribus. Magnam optio ea sint aliquid. Placeat nulla consequatur non dolores.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 1950518.24,
+            "taxes": 22,
+            "price": "150",
+            "categories": [
+                9,
+                2,
+                6,
+                5,
+                4
+            ],
+            "tags": [
+                "qui",
+                "aspernatur",
+                "perspiciatis",
+                "aut",
+                "magni",
+                "voluptas",
+                "ut",
+                "modi"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "IMPRESORA CANON 3",
+            "description": "Quis incidunt dicta alias aut tenetur ullam in. Rem repellat magni enim voluptate est. Et deserunt quibusdam occaecati temporibus quia odit.",
+            "ean": "5901306952114",
+            "upc": "502813603657",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Porro vero ut ea voluptatem.",
+                    "description": "Ab voluptas molestiae cumque autem quam vel accusantium. Rerum quibusdam iusto debitis numquam.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Vel dolore vitae ut error.",
+                    "description": "Saepe distinctio ipsam repellendus quo debitis. Et qui non praesentium sed iusto nulla quis. Quam excepturi quia saepe non atque. Quod totam possimus reprehenderit qui rerum enim et.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Omnis dolorem possimus et.",
+                    "description": "Voluptatem enim hic quam at ipsum possimus. Distinctio impedit accusamus error autem officiis fugiat. Ex aut vel aut enim. Alias velit adipisci atque velit veritatis vitae.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 12396.31,
+            "taxes": 22,
+            "price": "200.35",
+            "categories": [
+                5,
+                9,
+                3,
+                2,
+                1,
+                6
+            ],
+            "tags": [
+                "ipsam",
+                "repudiandae",
+                "sint",
+                "quis"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "DISCO DURO 1TB",
+            "description": "Et maiores voluptatem perferendis enim culpa nam. Aliquid quia in rerum blanditiis. Eum est cupiditate exercitationem.",
+            "ean": "5446546081502",
+            "upc": "522927187223",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Sunt et fugiat dolore et non.",
+                    "description": "Ipsum ut id ullam dignissimos. Sit dolorem tempore sapiente quisquam nulla. Est eos itaque sapiente accusantium eius sequi. Et exercitationem possimus est rerum facilis non.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Aut aut et neque animi.",
+                    "description": "Consectetur aperiam iure deserunt vel architecto. Totam blanditiis voluptas earum. Ducimus dignissimos omnis numquam veritatis fugit facilis aut.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Ut deserunt eos commodi ut.",
+                    "description": "Dignissimos illum sunt architecto velit quibusdam. Velit maiores id velit quam consequatur omnis at. Deleniti soluta sequi impedit aspernatur qui. Sit aut nihil sapiente perspiciatis modi alias.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 41.68,
+            "taxes": 22,
+            "price": "185.99",
+            "categories": [
+                9,
+                3,
+                5,
+                6
+            ],
+            "tags": [
+                "quis",
+                "placeat",
+                "mollitia",
+                "impedit",
+                "iusto",
+                "quos",
+                "sequi",
+                "adipisci"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "MONITOR BENQ",
+            "description": "Ea et eaque ipsum nesciunt quisquam aliquam fugit est. Ut iure qui deserunt corporis laborum. Vitae quos assumenda voluptatem qui. Doloremque est unde eos sit totam ab. Et soluta iste odit nobis.",
+            "ean": "7812466237486",
+            "upc": "918038685577",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "In magni ab nulla.",
+                    "description": "Eaque molestiae quo commodi sit. Quibusdam voluptatum provident inventore. Occaecati et dolorem quo. Ut sed ut autem maiores minima.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Dolores qui aut et eum.",
+                    "description": "Quis est ut veritatis sed molestiae veniam nobis. Esse debitis ut corrupti cupiditate.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Corrupti eos libero et nihil.",
+                    "description": "Dolores aliquid rem velit temporibus ut voluptatem. Assumenda enim qui qui et consequatur. Illo nobis quia necessitatibus unde alias dolorem corrupti. Atque fugit quia quis perspiciatis odio.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 2.88,
+            "taxes": 22,
+            "price": "80",
+            "categories": [
+                3,
+                8,
+                1,
+                4,
+                5
+            ],
+            "tags": [
+                "explicabo"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "PARLANTES GENIUS",
+            "description": "Quam magnam ex in esse qui. Omnis suscipit ut doloremque rerum ut voluptatem nulla. Aut sit qui doloremque eveniet provident.",
+            "ean": "2685678694782",
+            "upc": "729997363067",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Quidem cumque esse natus.",
+                    "description": "Incidunt voluptatem architecto cum laboriosam et fuga est. Temporibus est ducimus fugiat error.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Sed ut sunt quia adipisci ut.",
+                    "description": "Nemo sint itaque exercitationem quia modi in quo. Quia consectetur totam ea aut nisi odio. Sequi recusandae asperiores iure. Sit ipsam officia maxime.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Eos eum sint omnis animi.",
+                    "description": "Quas beatae beatae id reprehenderit. Est dolor laboriosam aliquid. Iure ipsa molestiae ut repudiandae qui error. Sapiente necessitatibus minima placeat blanditiis repellat ut dolorum laudantium.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 56495636.03,
+            "taxes": 22,
+            "price": "10.99",
+            "categories": [
+                9,
+                3,
+                5,
+                4,
+                6,
+                2,
+                7
+            ],
+            "tags": [
+                "tempore",
+                "et",
+                "ratione",
+                "veritatis",
+                "enim"
+            ]
+        }
+    ]
+}
